@@ -1,4 +1,4 @@
-# 🐍 Python Programs Repository 🎯
+<h1 align="center">🐍 Python Programs Repository 🎯</h1>
 
 Welcome to the **Python Programs** repository, your go-to hub for exploring, learning, and mastering Python through a collection of carefully curated programs! Whether you're just starting with Python or looking to expand your knowledge, this repository offers a diverse set of solutions to help you navigate the world of programming.
 
