@@ -55,11 +55,7 @@ Let’s collaborate and build an awesome Python resource together!
 > **"Code is like humor. When you have to explain it, it’s bad." — Cory House**
 
 ---
+<p align="center">
+    <img src="https://visitcount.itsvg.in/api?id=Python-programs&label=Profile%20Views&color=6&icon=1&pretty=true" alt="Profile Views"/>
+</p>
 
-## 🚀 Let's Get Started!
-
-Feel free to clone this repository and start exploring the code. Don’t forget to ⭐ the repository if you find it helpful!
-
-```bash
-# Clone the repository
-git clone https://github.com/schrodingerspet/Python-programs.git
